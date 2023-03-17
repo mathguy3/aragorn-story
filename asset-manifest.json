@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aragorn-story/static/css/main.bfad635f.css",
+    "main.js": "/aragorn-story/static/js/main.2f5fb061.js",
+    "static/js/787.132b3367.chunk.js": "/aragorn-story/static/js/787.132b3367.chunk.js",
+    "static/media/Aragorn_UI.jpg": "/aragorn-story/static/media/Aragorn_UI.9a19cf4c015dfa4ffc92.jpg",
+    "static/media/Buttons.png": "/aragorn-story/static/media/Buttons.e3488f8fe0b014dc1a92.png",
+    "index.html": "/aragorn-story/index.html",
+    "main.bfad635f.css.map": "/aragorn-story/static/css/main.bfad635f.css.map",
+    "main.2f5fb061.js.map": "/aragorn-story/static/js/main.2f5fb061.js.map",
+    "787.132b3367.chunk.js.map": "/aragorn-story/static/js/787.132b3367.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfad635f.css",
+    "static/js/main.2f5fb061.js"
+  ]
+}
